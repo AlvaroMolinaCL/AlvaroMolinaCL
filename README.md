@@ -42,7 +42,7 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 Septiembre 2023 – Diciembre 2023 | 📍 Concepción, Chile</p>
   </summary>
 
-* Colaboré en el control de inventario de los activos informáticos de la facultad, junto con la instalación y actualización del agente de inventario InvGate Asset Management.
+* Colaboré en el control de inventario de los activos informáticos de la facultad, junto con la instalación y actualización del agente de inventario [InvGate Asset Management](https://invgate.com/asset-management).
 
 * Fui uno de los responsables en el proceso de habilitación de la sala de doctorado de la facultad, mediante la instalación de 8 estaciones de trabajo compuestas por monitor, CPU y periféricos, además de una impresora de red. El proceso incluyó la elección de CPUs con el hardware adecuado (almacenamiento SSD, RAM, entre otros), instalación y configuración del sistema operativo Windows, configuración de drivers, configuración de IP y DNS para conexión a red LAN de la universidad vía Ethernet, e instalación del servicio de impresión de HP junto con la vinculación de cada uno de los equipos a la impresora.
 
@@ -59,9 +59,9 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 2021 – Presente | 📍 Concepción, Chile</p>
   </summary>
 
-* Enfoque en desarrollo de software colaborativo mediante metodologías SCRUM y Kanban.
+* Enfoque en desarrollo de software colaborativo mediante metodologías SCRUM ([Taller de Ingeniería de Software I](https://github.com/AlvaroMolinaCL/TallerIngSoftware1-UCSC)) y Kanban (Introducción a la Ingeniería Informática, [Taller de Programación I](https://github.com/AlvaroMolinaCL/TallerDeProgramacion1-UCSC), y [Estructuras de Datos](https://github.com/AlvaroMolinaCL/EstructurasDeDatos-UCSC)).
 
-* Modelación y construcción de bases de datos relacionales a través de MySQL y PostgreSQL, incluyendo consultas multitabla, subconsultas, creación de vistas, triggers y funciones.
+* Modelación y construcción de bases de datos relacionales a través de MySQL ([Taller de Ingeniería de Software I](https://github.com/AlvaroMolinaCL/TallerIngSoftware1-UCSC)) y PostgreSQL ([Bases de Datos](https://github.com/AlvaroMolinaCL/BasesDeDatos-UCSC), y [Taller de Bases de Datos](https://github.com/AlvaroMolinaCL/TallerBasesDeDatos-UCSC)), incluyendo consultas multitabla, subconsultas, creación de vistas, triggers y funciones.
 
 </details>
 
