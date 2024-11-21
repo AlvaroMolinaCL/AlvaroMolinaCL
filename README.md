@@ -75,7 +75,7 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
 
 * Experiencia en liderazgo como Tesorero (2019) y Presidente (2020) del Centro de Estudiantes.
 
-* Participación individual y en equipo de torneos de debate y oratoria, en representación del establecimiento educacional, a nivel regional y nacional.
+* Participación, individual y en equipo, de torneos de debate y oratoria, en representación del establecimiento educacional, a nivel regional y nacional.
 
 </details>
 
@@ -83,7 +83,7 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
 <table>
   <tr>
     <td><b>Lenguajes</b></td>
-    <td>C, C++, Python, PHP, JavaScript, HTML, CSS</td>
+    <td>C, C++, Python, PHP, JavaScript (AJAX), HTML, CSS</td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
@@ -107,6 +107,6 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
   </tr>
   <tr>
     <td><b>Control de Versiones</b></td>
-    <td>Git (GitHub, GitLab), CI/CD</td>
+    <td>Git (GitHub, GitLab), Integración y Distribución Continua (CI/CD)</td>
   </tr>
 </table>
