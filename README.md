@@ -3,9 +3,25 @@
 📍 Concepción, Chile | ✉️ [alvaromolinacl@gmail.com](mailto:alvaromolinacl@gmail.com)
 
 ## Perfil Profesional
-Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universidad Católica de la Santísima Concepción (UCSC), con experiencia e interés en proyectos de desarrollo de software y aplicaciones web en entornos colaborativos, soy un profesional responsable, con alta capacidad de adaptación y disposición para trabajar en equipos multidisciplinarios, con actitud proactiva y positiva, abierto al aprendizaje y perfeccionamiento continuo.
+Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universidad Católica de la Santísima Concepción (UCSC), con experiencia e interés en proyectos de desarrollo de software y aplicaciones web en entornos colaborativos, soy un profesional responsable, con alta capacidad de adaptación y disposición para trabajar en equipos multidisciplinarios, con actitud proactiva y positiva, abierto al aprendizaje y perfeccionamiento continuo.
 
 ## Experiencia Laboral
+### Práctica en Desarrollo de Software
+<details>
+
+  <summary>
+    <b>Drup SpA</b>
+    <p>🕒 16 Diciembre 2024 – 31 Enero 2025 | 📍 Concepción, Chile</p>
+  </summary>
+
+* Trabajé junto a otros practicantes en la mantención e implementación de nuevas funcionalidades para el proyecto AppDAS, un software pensando para reducir la carga de trabajo del personal de salud que compone la Red Asistencial, en beneficio de los pacientes.
+
+* Me encargué de implementar un modulo de carga masiva a través de Excel, el cual procesa las planillas generadas por la plataforma SINETSUR y permite en una sola operación cargar información de varios pacientes junto con sus citas médicas, además de enviar notificaciones vía SMS y correo electrónico en casos de ingreso y actualización.
+
+* También colaboré en la revisión del código acorde a las buenas prácticas de programación y en la actualización de la documentación, con el fin de posibilitar que otros desarrolladores continúen con el proyecto.
+
+</details>
+
 ### Ayudante de Soporte Técnico, Facultad de Ingeniería
 <details>
 
@@ -83,11 +99,11 @@ Actualmente cursando 4.º año de Ingeniería Civil Informática en la Universid
 <table>
   <tr>
     <td><b>Lenguajes</b></td>
-    <td>C, C++, Python, PHP, JavaScript (AJAX), HTML, CSS</td>
+    <td>C, C++, Python, PHP, JavaScript (AJAX), TypeScript, HTML, CSS</td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
-    <td>Bootstrap</td>
+    <td>Laravel 8, Ionic 5, Bootstrap 5, Tailwind 4</td>
   </tr>
   <tr>
     <td><b>Herramientas de Desarrollo</b></td>
