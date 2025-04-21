@@ -6,6 +6,20 @@
 Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universidad Católica de la Santísima Concepción (UCSC), con experiencia e interés en proyectos de desarrollo de software y aplicaciones web en entornos colaborativos, soy un profesional responsable, con alta capacidad de adaptación y disposición para trabajar en equipos multidisciplinarios, con actitud proactiva y positiva, abierto al aprendizaje y perfeccionamiento continuo.
 
 ## Experiencia Laboral
+### Ayudante en Curso "Herramientas de Programación", Facultad de Ingeniería
+<details>
+
+  <summary>
+    <b>Universidad Católica de la Santísima Concepción</b>
+    <p>🕒 Marzo 2025 – Presente | 📍 Concepción, Chile</p>
+  </summary>
+
+* Durante el primer semestre de 2025, me desempeño como ayudante de cátedra en 2 secciones del curso de "Herramientas de Programación" para las carreras de Ingeniería Civil Eléctrica e Ingeniería Civil Industrial (fundamentalmente estudiantes de primer año). 
+
+* Mi trabajo es reforzar y poner en práctica los contenidos que ven los estudiantes en la cátedra con su profesor responsable. El curso en un inicio introduce a los estudiantes a la pseudoprogramación mediante el uso de Diagramas de Flujo a través de [PSeInt](https://pseint.sourceforge.net/), y luego utilizan la herramienta de simulación [Tinkercad](https://www.tinkercad.com/) para aplicar la programación en placas y sensores. Finalmente, empiezan a trabajar con el lenguaje de programación Python (con [Google Colab](https://colab.google/) y el IDE Pycharm) donde abordan condicionales, anidación de instrucciones, ciclos iterativos, listas, arreglos N-dimensionales, funciones, módulos, gráficos con [Matplotlib](https://matplotlib.org/), e interfaz gráfica.
+
+</details>
+
 ### Práctica en Desarrollo de Software
 <details>
 
