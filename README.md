@@ -14,9 +14,9 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 Marzo 2025 – Presente | 📍 Concepción, Chile</p>
   </summary>
 
-* Durante el primer semestre de 2025, me desempeño como ayudante de cátedra en 2 secciones del curso de "Herramientas de Programación" para las carreras de Ingeniería Civil Eléctrica e Ingeniería Civil Industrial (fundamentalmente estudiantes de primer año). 
+* Me desempeño como ayudante de cátedra en 2 secciones del curso "[Herramientas de Programación](https://github.com/AlvaroMolinaCL/HerramientasProgramacion-UCSC)" para las carreras de Ingeniería Civil Eléctrica e Ingeniería Civil Industrial (fundamentalmente estudiantes de primer año).
 
-* Mi trabajo es reforzar y poner en práctica los contenidos que ven los estudiantes en la cátedra con su profesor responsable. El curso en un inicio introduce a los estudiantes a la pseudoprogramación mediante el uso de Diagramas de Flujo a través de [PSeInt](https://pseint.sourceforge.net/), y luego utilizan la herramienta de simulación [Tinkercad](https://www.tinkercad.com/) para aplicar la programación en placas y sensores. Finalmente, empiezan a trabajar con el lenguaje de programación Python (con [Google Colab](https://colab.google/) y el IDE Pycharm) donde abordan condicionales, anidación de instrucciones, ciclos iterativos, listas, arreglos N-dimensionales, funciones, módulos, gráficos con [Matplotlib](https://matplotlib.org/), e interfaz gráfica.
+* Mi trabajo es reforzar y poner en práctica los contenidos que ven los estudiantes en la cátedra con su profesor responsable. El curso, en una primera parte, introduce a los estudiantes a la pseudoprogramación mediante el uso de Diagramas de Flujo a través de [PSeInt](https://pseint.sourceforge.net/). Y luego, en una segunda parte, trabajan en lenguaje Python (con [Google Colab](https://colab.google/) y el IDE PyCharm) donde abordan condicionales, anidación de instrucciones, ciclos iterativos, listas, arreglos N-dimensionales, funciones, gráficos con [Matplotlib](https://matplotlib.org/), e interfaz gráfica.
 
 </details>
 
@@ -50,20 +50,6 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
 
 </details>
 
-### Ayudante en Laboratorios de Física, DMFA
-<details>
-
-  <summary>
-    <b>Universidad Católica de la Santísima Concepción</b>
-    <p>🕒 Abril 2023 – Presente | 📍 Concepción, Chile</p>
-  </summary>
-
-* Apoyo al docente en la realización de actividades prácticas en los laboratorios para los cursos introductorios de física del Departamento de Matemática y Física Aplicadas (DMFA).
-
-* Reviso los informes de laboratorio de los estudiantes, en los cuales deben formular una hipótesis, recopilar datos experimentales mediante una tabla y elaborar gráficos de dispersión usando Excel, para posteriormente convertir estos datos en información, identificando el comportamiento de los mismos y concluyendo sobre el o los fenómenos físicos observados.
-
-</details>
-
 ### Ayudante de Soporte Técnico, Facultad de Educación
 <details>
 
@@ -89,9 +75,7 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 2021 – Presente | 📍 Concepción, Chile</p>
   </summary>
 
-* Enfoque en desarrollo de software colaborativo mediante metodologías SCRUM ([Taller de Ingeniería de Software I](https://github.com/AlvaroMolinaCL/TallerIngSoftware1-UCSC)) y Kanban (Introducción a la Ingeniería Informática, [Taller de Programación I](https://github.com/AlvaroMolinaCL/TallerDeProgramacion1-UCSC), y [Estructuras de Datos](https://github.com/AlvaroMolinaCL/EstructurasDeDatos-UCSC)).
-
-* Modelación y construcción de bases de datos relacionales a través de MySQL ([Taller de Ingeniería de Software I](https://github.com/AlvaroMolinaCL/TallerIngSoftware1-UCSC)) y PostgreSQL ([Bases de Datos](https://github.com/AlvaroMolinaCL/BasesDeDatos-UCSC), y [Taller de Bases de Datos](https://github.com/AlvaroMolinaCL/TallerBasesDeDatos-UCSC)), incluyendo consultas multitabla, subconsultas, creación de vistas, triggers y funciones.
+.
 
 </details>
 
@@ -103,9 +87,7 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 2018 – 2020 | 📍 Concepción, Chile</p>
   </summary>
 
-* Experiencia en liderazgo como Tesorero (2019) y Presidente (2020) del Centro de Estudiantes.
-
-* Participación, individual y en equipo, de torneos de debate y oratoria, en representación del establecimiento educacional, a nivel regional y nacional.
+.
 
 </details>
 
@@ -117,11 +99,11 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
-    <td>Laravel 8, Ionic 5, Bootstrap 5, Tailwind 4</td>
+    <td>Laravel 8 y 10, Ionic 5, Bootstrap 5, Tailwind 4</td>
   </tr>
   <tr>
     <td><b>Herramientas de Desarrollo</b></td>
-    <td>Visual Studio Code</td>
+    <td>Visual Studio Code, PyCharm</td>
   </tr>
   <tr>
     <td><b>Bases de Datos</b></td>
@@ -137,6 +119,10 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
   </tr>
   <tr>
     <td><b>Control de Versiones</b></td>
-    <td>Git (GitHub, GitLab), Integración y Distribución Continua (CI/CD)</td>
+    <td>Git (GitHub, GitLab)</td>
+  </tr>
+  <tr>
+    <td><b>Integración y Despliegue Continuo (CI/CD)</b></td>
+    <td>GitHub Actions</td>
   </tr>
 </table>
