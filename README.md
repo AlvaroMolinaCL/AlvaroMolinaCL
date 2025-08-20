@@ -14,7 +14,7 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
     <p>🕒 Marzo 2025 – Presente | 📍 Concepción, Chile</p>
   </summary>
 
-* Me desempeño como ayudante de cátedra en 2 secciones del curso "[Herramientas de Programación](https://github.com/AlvaroMolinaCL/HerramientasProgramacion-UCSC)" para las carreras de Ingeniería Civil Eléctrica e Ingeniería Civil Industrial (fundamentalmente estudiantes de primer año).
+* Me desempeño como ayudante de cátedra en el curso "[Herramientas de Programación](https://github.com/AlvaroMolinaCL/HerramientasProgramacion-UCSC)" para las carreras de Ingeniería Civil, Ingeniería Civil Eléctrica e Ingeniería Civil Industrial (fundamentalmente estudiantes de primer año).
 
 * Mi trabajo es reforzar y poner en práctica los contenidos que ven los estudiantes en la cátedra con su profesor responsable. El curso, en una primera parte, introduce a los estudiantes a la pseudoprogramación mediante el uso de Diagramas de Flujo a través de [PSeInt](https://pseint.sourceforge.net/). Y luego, en una segunda parte, trabajan en lenguaje Python (con [Google Colab](https://colab.google/) y el IDE PyCharm) donde abordan condicionales, anidación de instrucciones, ciclos iterativos, listas, arreglos N-dimensionales, funciones, gráficos con [Matplotlib](https://matplotlib.org/), e interfaz gráfica.
 
@@ -41,12 +41,12 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
 
   <summary>
     <b>Universidad Católica de la Santísima Concepción</b>
-    <p>🕒 Abril 2022 – Presente | 📍 Concepción, Chile</p>
+    <p>🕒 Abril 2022 – Julio 2025 | 📍 Concepción, Chile</p>
   </summary>
 
-* Colaboro en el mantenimiento de los 24 a 32 equipos computacionales que funcionan en cada uno de los 7 laboratorios de la facultad, mediante la instalación de actualizaciones del sistema operativo Windows, y de programas que se utilizan en este contexto académico (Visual Studio, AutoCAD, ProModel, Unity, entre otros). Cuando es necesario, también realizo cambio de unidades de almacenamiento (SSD) y RAM, cables HDMI, RJ45 (Ethernet), entre otros.
+* Colaboré en el mantenimiento de los 24 a 32 equipos computacionales que funcionan en cada uno de los 7 laboratorios de la facultad, mediante la instalación de actualizaciones del sistema operativo Windows, y de programas que se utilizan en este contexto académico (Visual Studio, AutoCAD, ProModel, Unity, entre otros). Cuando fue necesario, también realicé cambio de unidades de almacenamiento (SSD) y RAM, cables HDMI, RJ45 (Ethernet), entre otros.
 
-* Atiendo requerimientos de soporte informático de diversa índole por parte de estudiantes, académicos y personal administrativo.
+* Atendí requerimientos de soporte informático de diversa índole por parte de estudiantes, académicos y personal administrativo.
 
 </details>
 
@@ -73,18 +73,6 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
   <summary>
     <b>Universidad Católica de la Santísima Concepción</b>
     <p>🕒 2021 – Presente | 📍 Concepción, Chile</p>
-  </summary>
-
-.
-
-</details>
-
-### Enseñanza Media
-<details>
-
-  <summary>
-    <b>Liceo Domingo Santa María</b>
-    <p>🕒 2018 – 2020 | 📍 Concepción, Chile</p>
   </summary>
 
 .
