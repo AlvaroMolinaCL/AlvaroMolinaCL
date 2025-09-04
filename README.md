@@ -41,12 +41,12 @@ Actualmente cursando 5.º año de Ingeniería Civil Informática en la Universid
 
   <summary>
     <b>Universidad Católica de la Santísima Concepción</b>
-    <p>🕒 Abril 2022 – Julio 2025 | 📍 Concepción, Chile</p>
+    <p>🕒 Abril 2022 – Presente | 📍 Concepción, Chile</p>
   </summary>
 
-* Colaboré en el mantenimiento de los 24 a 32 equipos computacionales que funcionan en cada uno de los 7 laboratorios de la facultad, mediante la instalación de actualizaciones del sistema operativo Windows, y de programas que se utilizan en este contexto académico (Visual Studio, AutoCAD, ProModel, Unity, entre otros). Cuando fue necesario, también realicé cambio de unidades de almacenamiento (SSD) y RAM, cables HDMI, RJ45 (Ethernet), entre otros.
+* Colaboro en el mantenimiento de los 24 a 32 equipos computacionales que funcionan en cada uno de los 7 laboratorios de la facultad, mediante la instalación de actualizaciones del sistema operativo Windows, y de programas que se utilizan en este contexto académico (Visual Studio, AutoCAD, ProModel, Unity, entre otros). Cuando es necesario, también realizo otras tareas técnicas, como por ejemplo: cambio de unidades de almacenamiento (SSD) y RAM, cables HDMI, RJ45 (Ethernet), entre otros.
 
-* Atendí requerimientos de soporte informático de diversa índole por parte de estudiantes, académicos y personal administrativo.
+* Atiendo requerimientos de soporte informático de diversa índole por parte de estudiantes, académicos y personal administrativo.
 
 </details>
 
